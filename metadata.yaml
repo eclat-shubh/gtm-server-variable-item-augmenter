@@ -1,7 +1,7 @@
 # Visit https://developers.google.com/tag-manager/templates/gallery-developer-guide
 homepage: "https://github.com/eclat-shubh/gtm-server-variable-item-augmenter"
 versions:
-  - sha: "f0f64753a8369c0e0ec4c2aa4840b2f4d424055b"
+  - sha: "93574bac21207d9f4d84c4bb4290f6a5927ff6b7"
     changeNotes: "Initial release of the server-side item array augmenter."
 contact:
   name: "Shubham Sharma"

@@ -1,0 +1,11 @@
+# Visit https://developers.google.com/tag-manager/templates/gallery-developer-guide
+homepage: "https://github.com/eclat-shubh/gtm-server-variable-item-augmenter"
+versions:
+  - sha: ""
+    changeNotes: "Initial release of the server-side item array augmenter."
+contact:
+  name: "Shubham Sharma"
+  supportUrl: "https://github.com/eclat-shubh/gtm-server-variable-item-augmenter/issues"
+template:
+  name: "Server-Side Item Array Augmenter"
+  description: "Augments the 'items' array. Overwrites 'item_id' with a custom Shopify format (shopify_MARKET_prod_var) and adds 'parent_product_id'."

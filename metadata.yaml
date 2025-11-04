@@ -9,3 +9,4 @@ contact:
 template:
   name: "Server-Side Item Array Augmenter"
   description: "Augments the 'items' array. Overwrites 'item_id' with a custom Shopify format (shopify_MARKET_prod_var) and adds 'parent_product_id'."
+  imageUrl: "https://raw.githubusercontent.com/eclat-shubh/gtm-server-variable-item-augmenter/main/icon.png"

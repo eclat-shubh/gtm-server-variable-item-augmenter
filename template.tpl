@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Item Array Augmenter - Shopify ID",
-  "description": "",
+  "description": "Augments the 'items' array. Overwrites 'item_id' with a custom Shopify format (shopify_MARKET_prod_var) and adds 'parent_product_id'.",
   "containerContexts": [
     "SERVER"
   ]

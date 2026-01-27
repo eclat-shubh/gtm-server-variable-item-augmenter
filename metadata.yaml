@@ -2,6 +2,8 @@
 homepage: 'https://velstar.agency/'
 documentation: 'https://github.com/eclat-shubh/gtm-server-variable-item-augmenter'
 versions:
+  - sha: e8ed05e098e81783cdd9e1d4ffdafd8ebc818d29
+    changeNotes: Removed brand details in template file.  
   - sha: 214a3dc03141b9804502d07e90933f92af1b6b5c
     changeNotes: Modify brand details and item description in template.
   - sha: 96590cdbc24253177f5957dc1cd4ab5e1a82c1f5
